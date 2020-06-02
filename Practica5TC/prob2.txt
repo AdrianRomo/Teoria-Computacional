@@ -1,0 +1,5 @@
+ABCD
+01
+B.A,B.C,A1A,C0C,C1C,C0D
+B
+AD
